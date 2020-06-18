@@ -1,14 +1,12 @@
 [package]
 name = "ascii85"
 version = "0.1.0"
-authors = ["Jonathan Nilsson <jonathan@voysys.se>"]
+authors = ["Jonathan Nilsson <<l.a.jonathan.nilsson@gmail.com>"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/rust-random/rand"
-
-
+repository = "https://github.com/JoNil/ascii85"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+keywords = ["decode", "ascii85", "base85"]
+categories = ["Encoding"]
 
 [dependencies]
