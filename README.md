@@ -1,6 +1,6 @@
 # Ascii85
 
-A simple crate for decoding Adobe Ascii85
+A simple crate for encoding and decoding Adobe Ascii85
 
 https://en.wikipedia.org/wiki/Ascii85
 

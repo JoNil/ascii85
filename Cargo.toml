@@ -2,7 +2,7 @@
 name = "ascii85"
 version = "0.1.1"
 authors = ["Jonathan Nilsson <<l.a.jonathan.nilsson@gmail.com>"]
-description = "A simple crate for decoding Adobe Ascii85"
+description = "A simple crate for encoding and decoding Adobe Ascii85"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/JoNil/ascii85"
