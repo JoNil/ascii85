@@ -21,7 +21,7 @@ pub fn encode(input: &[u8]) -> String {
 
         for i in 0..count {
             let digit = (((number / TABLE[i]) % 85) + 33) as u8;
-            result.push(digit as char)
+            result.push(digit as char);
         }
     }
 

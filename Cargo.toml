@@ -1,11 +1,12 @@
 [package]
 name = "ascii85"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Jonathan Nilsson <<l.a.jonathan.nilsson@gmail.com>"]
 description = "A simple crate for encoding and decoding Adobe Ascii85"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/JoNil/ascii85"
+documentation = "https://docs.rs/ascii85/"
 edition = "2018"
 keywords = ["decode", "ascii85", "base85"]
 categories = ["encoding"]
